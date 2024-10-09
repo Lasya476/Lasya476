@@ -20,8 +20,5 @@
 [<img align="left" alt="Lasya Devineni | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
-
-
-  -->
 [linkedin]: https://www.linkedin.com/in/lasya-devineni/
 [gmail]: mailto:lasyapriya.devineni@gmail.com
