@@ -36,9 +36,4 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lasya-devineni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lasya-devineni/" height="30" width="40" /></a>
-<p align="left">
-  <a href="mailto:your-email@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
-
+<a href="mailto:lasyapriya.devineni@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="mailto:lasyapriya.devineni@gmail.com" height="30" width="40" /></a>  
