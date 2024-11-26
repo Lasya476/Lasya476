@@ -29,11 +29,10 @@
 
 <h2>📚 Projects</h2>
 
-- View my analytics work & coding projects on [Github](https://github.com/SunghKeum?tab=repositories)
-- View my data visualizations on [Tableau Public](https://public.tableau.com/app/profile/sung.keum/vizzes)
+- View my analytics work & coding projects on [Github](https://github.com/Lasya476/PortfolioProject)
+- View my data visualizations on [Tableau Public](https://public.tableau.com/app/profile/lasya3731/vizzes)
 
 <h2>📫 Connect with Me</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lasya-devineni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sungkeum" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sungkeum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sungkeum" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lasya-devineni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lasya-devineni/" height="30" width="40" /></a>
