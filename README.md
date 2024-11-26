@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="300" src="/plpso-feratures-data-business.jpg">
+  <img width="1000" height="300" src="/creative-visual-business-data-analyzing-technology_31965-17166.jpg">
 </p>
 
 <h1 align="center">Hi 👋, I'm Lasya, welcome to my space~</h1>
